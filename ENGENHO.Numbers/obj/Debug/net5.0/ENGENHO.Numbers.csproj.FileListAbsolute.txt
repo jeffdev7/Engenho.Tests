@@ -1,0 +1,16 @@
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\bin\Debug\net5.0\ENGENHO.Numbers.exe
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\bin\Debug\net5.0\ENGENHO.Numbers.deps.json
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\bin\Debug\net5.0\ENGENHO.Numbers.runtimeconfig.json
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\bin\Debug\net5.0\ENGENHO.Numbers.runtimeconfig.dev.json
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\bin\Debug\net5.0\ENGENHO.Numbers.dll
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\bin\Debug\net5.0\ref\ENGENHO.Numbers.dll
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\bin\Debug\net5.0\ENGENHO.Numbers.pdb
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\obj\Debug\net5.0\ENGENHO.Numbers.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\obj\Debug\net5.0\ENGENHO.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\obj\Debug\net5.0\ENGENHO.Numbers.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\obj\Debug\net5.0\ENGENHO.Numbers.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\obj\Debug\net5.0\ENGENHO.Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\obj\Debug\net5.0\ENGENHO.Numbers.dll
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\obj\Debug\net5.0\ref\ENGENHO.Numbers.dll
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\obj\Debug\net5.0\ENGENHO.Numbers.pdb
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Numbers\obj\Debug\net5.0\ENGENHO.Numbers.genruntimeconfig.cache

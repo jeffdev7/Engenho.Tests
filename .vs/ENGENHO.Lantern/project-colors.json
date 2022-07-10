@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5a1eafe-42d6-4080-8b05-89b2bbc34d90": {
+      "ProjectGuid": "d5a1eafe-42d6-4080-8b05-89b2bbc34d90",
+      "DisplayName": "ENGENHO.Lantern",
+      "ColorIndex": 0
+    },
+    "8e20bec4-e863-4110-8e48-dcfa8507f02e": {
+      "ProjectGuid": "8e20bec4-e863-4110-8e48-dcfa8507f02e",
+      "DisplayName": "ENGENHO.Numbers",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

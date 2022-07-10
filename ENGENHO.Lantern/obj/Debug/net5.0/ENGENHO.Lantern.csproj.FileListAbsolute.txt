@@ -1,0 +1,16 @@
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\bin\Debug\net5.0\ENGENHO.Lantern.exe
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\bin\Debug\net5.0\ENGENHO.Lantern.deps.json
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\bin\Debug\net5.0\ENGENHO.Lantern.runtimeconfig.json
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\bin\Debug\net5.0\ENGENHO.Lantern.runtimeconfig.dev.json
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\bin\Debug\net5.0\ENGENHO.Lantern.dll
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\bin\Debug\net5.0\ref\ENGENHO.Lantern.dll
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\bin\Debug\net5.0\ENGENHO.Lantern.pdb
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\obj\Debug\net5.0\ENGENHO.Lantern.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\obj\Debug\net5.0\ENGENHO.Lantern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\obj\Debug\net5.0\ENGENHO.Lantern.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\obj\Debug\net5.0\ENGENHO.Lantern.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\obj\Debug\net5.0\ENGENHO.Lantern.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\obj\Debug\net5.0\ENGENHO.Lantern.dll
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\obj\Debug\net5.0\ref\ENGENHO.Lantern.dll
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\obj\Debug\net5.0\ENGENHO.Lantern.pdb
+C:\Users\Jefferson\Documents\ENGENHO.Lantern\ENGENHO.Lantern\obj\Debug\net5.0\ENGENHO.Lantern.genruntimeconfig.cache
